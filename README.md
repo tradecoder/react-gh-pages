@@ -1,4 +1,4 @@
-# Sample React App deploy to gh-pages
+# Deploy your React App to gh-pages
 
 Bootstrapped by `create-react-app`
 
