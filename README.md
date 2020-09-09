@@ -56,11 +56,17 @@ We are adding our own
 Visit your project using the homepage you set earlier
 
 ## Upload the source code to github
+Add all the changes in your project
+
 `git add --all`
+ 
+ Commit with a message
 
-Then `git commit -m 'your message here'`
+`git commit -m 'your message here'`
 
-Then `git push origin master`
+Push your source codes to your github project
+
+`git push origin master`
 
 Source code uploaded to your github master branch
 
