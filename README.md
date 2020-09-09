@@ -2,6 +2,8 @@
 
 Bootstrapped by `create-react-app`
 
+## Make an empty repo on github (no file)
+
 ## Install the app using the command
 `npx create-react-app yourprojectname`
 
@@ -11,7 +13,7 @@ Bootstrapped by `create-react-app`
 ## Intall gh-pages
 `npm install gh-pages`
 
-## Add homepage to `package.json`
+## Add a homepage to `package.json`
 
 `"hompage":"https://yourgithubusername.io/yourprojectname"`
 
