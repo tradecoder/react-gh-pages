@@ -57,7 +57,9 @@ Visit your project using the homepage you set earlier
 
 ## Upload the source code to github
 `git add --all`
+
 Then `git commit -m 'your message here'`
+
 Then `git push origin master`
 
 Source code uploaded to your github master branch
