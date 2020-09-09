@@ -21,7 +21,7 @@ example:
 ## Add below code to the script section of `package.json`
 
 ```
-"predeploy":"npm-run-build",
+"predeploy":"npm run build",
 "deploy":"gh-pages -d build"
 ```
 
@@ -34,7 +34,7 @@ your code may look like this after adding the above properties
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm-run-build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
   }
 ```
