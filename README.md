@@ -15,7 +15,7 @@ Bootstrapped by `create-react-app`
 
 ## Add a homepage to `package.json`
 
-`"homepage":"https://yourgithubusername.io/yourprojectname"`
+`"homepage":"https://yourgithubusername.github.io/yourprojectname"`
 
 example:
 `"homepage":"https://tradecoder.github.io/react-gh-pages"`
