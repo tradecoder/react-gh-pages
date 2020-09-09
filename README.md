@@ -20,7 +20,7 @@ Bootstrapped by `create-react-app`
 example:
 `"homepage":"https://tradecoder.github.io/react-gh-pages"`
 
-## Add below code to the script section of `package.json`
+## Add the following code to the script section of `package.json`
 
 ```
 "predeploy":"npm run build",
