@@ -4,7 +4,7 @@ Bootstrapped by `create-react-app`
 
 ## Make an empty repo on github (no file)
 
-## Install the app using the command
+## Install the app using this command
 `npx create-react-app yourprojectname`
 
 ## Go to your project
