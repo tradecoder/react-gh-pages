@@ -51,32 +51,44 @@ your code may look like this after adding the above properties
 ```
 
 ## Create a git repo 
-`git init`
+
+```javascript
+git init
+```
 
 ## Add your github project remote url
-`git remote add origin https://github.com/yourgithubusername/yourprojectname.git`
 
-We are adding our own
-`git remote add origin https://github.com/tradecoder/react-gh-pages`
+```javascript
+git remote add origin https://github.com/yourgithubusername/yourprojectname.git
+```
+
+// We are adding our own
+git remote add origin https://github.com/tradecoder/react-gh-pages
+```
 
 ## Setup is ok, now deploy your app to github gh-pages
-`npm run deploy`
 
+```javascript
+npm run deploy
+```
 Visit your project using the homepage you set earlier
 
 ## Upload the source code to github
 Add all the changes in your project
 
-`git add --all`
- 
+```javascript
+git add --all
+ ```
  Commit with a message
-
-`git commit -m 'your message here'`
-
+ 
+```javascript
+git commit -m 'your message here'
+```
 Push your source codes to your github project
 
-`git push origin master`
-
+```javascript
+git push origin master
+```
 Source code uploaded to your github master branch
 
 ## Done
