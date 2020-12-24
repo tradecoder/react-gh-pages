@@ -60,7 +60,6 @@ git init
 
 ```javascript
 git remote add origin https://github.com/yourgithubusername/yourprojectname.git
-```
 
 // We are adding our own
 
